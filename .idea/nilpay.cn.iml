@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/wechatpay/wechatpay" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/guzzlehttp/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/includes/vendor/guzzlehttp/psr7" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
